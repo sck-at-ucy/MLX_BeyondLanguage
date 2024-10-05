@@ -5,7 +5,7 @@ MLX_BeyondLanguage showcases examples of applying the [MLX](https://github.com/m
 ## Some key features of MLX_BeyondLanguage
 **Feature 1**: Uses the Python API of MLX
 
-**Feature 2**: The included examples showcase some of the advantages of using MLX, e.g. Composable Function Transformations, Lazy Computation, and Unified Memory.
+**Feature 2**: The included examples showcase some of the advantages of using [MLX](https://github.com/ml-explore/mlx), e.g. Composable Function Transformations, Lazy Computation, and Unified Memory.
 
 **Feature 3**: The provided code is designed for execution on Apple M-series Silicon.
 

@@ -57,7 +57,7 @@ If you find MLX_BeyondLanguage useful in your research and wish to cite it, plea
 
 The [MLX](https://github.com/ml-explore/mlx) software suite was initially developed with equal contribution by Awni
 Hannun, Jagrit Digani, Angelos Katharopoulos, and Ronan Collobert. If you also wish
-cite MLX, please use the following BibTex entry:
+to cite MLX, please use the following BibTex entry:
 
 ```
 @software{mlx2023,

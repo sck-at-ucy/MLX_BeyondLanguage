@@ -30,17 +30,31 @@ All requirements can be installed with `pip install -r requirements.txt` or by i
 
 ## Citing MLX_BeyondLanguage 
 
-If you find MLX_BeyondLanguage useful in your research and wish to cite it, please use the following BibTex entry:
+If you find MLX_BeyondLanguage useful in your research and wish to cite it, please use the following BibTex entries:
 
 ```
 @software{mlxbeyond2024,
-  author = {Stavros Kassinos and Alessio Alexiadis},
+  author = {Stavros Kassinos},
   title = {{MLX_BeyondLanguage}: Applications of the MLX Machine Learning Framework to Engineering Examples},
   url = {https://github.com/sck-at-ucy/MLX_BeyondLanguage},
   version = {0.0.1},
   year = {2024},
 }
 ```
+
+```
+@article{mlx_beyond_language2024,
+  author = {Stavros Kassinos and Alessio Alexiadis},
+  title = {Beyond Language: Applying MLX Transformers to Engineering Physics},
+  journal = {arXiv},
+  year = {2024},
+  url = {https://arxiv.org/abs/XXXX.XXXXX}
+}
+```
+
+
+
+
 
 ## Citing MLX
 

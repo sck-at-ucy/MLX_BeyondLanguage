@@ -35,7 +35,7 @@ If you find MLX_BeyondLanguage useful in your research and wish to cite it, plea
 ```
 @software{mlxbeyond2024,
   author = {Stavros Kassinos and Alessio Alexiadis},
-  title = {{MLX_BeyondLanguage}: Applications of the MLX Machine Learning Framework to Engineering Examples},
+  title = {{MLX_BeyondLanguage}: Applications of the MLX Machine Learning Framework to Engineering Physics},
   url = {https://github.com/sck-at-ucy/MLX_BeyondLanguage},
   version = {0.0.1},
   year = {2024},

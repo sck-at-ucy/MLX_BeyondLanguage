@@ -1,0 +1,20 @@
+# Ignore virtual environments
+env/
+.env/
+.venv/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.npy
+.DS_Store
+.idea/
+
+# Conda environment files
+.conda/
+*.conda
+*.ipynb_checkpoints
+.envrc
+
+# Output files and dats
+OUTPUTS/

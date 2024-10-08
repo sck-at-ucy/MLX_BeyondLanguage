@@ -16,7 +16,7 @@ MLX_BeyondLanguage showcases examples of applying the [MLX](https://github.com/m
    ```
 
 ## Examples
-Currently, this repo contains a simple example which provides the code described in 
+Currently, this repo contains a single example which provides the code described in 
 [Beyond Language: Applying MLX Transformers to Engineering Physics](https://doi.org/10.48550/arXiv.2410.04167)
 
 ## Requirements

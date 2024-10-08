@@ -49,7 +49,7 @@ If you find MLX_BeyondLanguage useful in your research and wish to cite it, plea
   title = {Beyond Language: Applying MLX Transformers to Engineering Physics},
   journal = {arXiv},
   year = {2024},
-  url = {https://arxiv.org/abs/XXXX.XXXXX}
+  url = {https://doi.org/10.48550/arXiv.2410.04167}
 }
 ```
 
